@@ -131,7 +131,7 @@ body {
 .producto img {
     width: 80%;
     height: 80%;
-    border-radius: 0.25rem;
+    border-radius: 0.50rem;
 }
 
 .producto .producto-info {
